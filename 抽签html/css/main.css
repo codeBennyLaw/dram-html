@@ -1,0 +1,19 @@
+span {
+	font-size: 20px;
+	text-align: left;
+	color: #fff;
+}
+
+h3 {
+	font-size: 100px;
+	font-family: STXingkai;
+	text-align: center;
+}
+
+#result {
+	top: 20%;
+	font-size: 150px;
+	font-family: LiSu;
+	color: #ffff00;
+	text-align: center;
+}
